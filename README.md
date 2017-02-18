@@ -36,15 +36,12 @@ The data in csv formate and a screenshot of the plot will be saved in your root 
 
 Example of of transfer cruve measurement of a n-type semiconductor device:
 
-
-
-
-
+![Transfer Curve](https://github.com/alexxucui/pMeasure/blob/master/images/transfer_curve.png)
 
 
 output curve measurement of a n-type semiconductor device:
 
-
+![Output Curve](https://github.com/alexxucui/pMeasure/blob/master/images/output_curve.png)
 
 
 
