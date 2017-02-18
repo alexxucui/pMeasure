@@ -13,17 +13,32 @@ You can istall it using pip:
 	
 	transfer(vsd=0.01, vb_low=0, vb_high=80, step=100, delay=0, pair='0.5um')
 
-	
-  *d
+
+* Output Curve
+
+	output(vsd=0.1, vb_low=0.0, vb_high=80.0, v_step=4, step=100, delay=100, pair = '0.5um')
+
+If you want to return both Keithey to 0, use:
+
+	keithley(target_bg = 0, target_sd = 0)
 
 
-
-After measurment, the data in csv formate and a screenshot of the plot will be saved in your root folder.
+The data in csv formate and a screenshot of the plot will be saved in your root folder.
 
 
 ## Plotting
 
-Here is an example of 
+
+Example of of transfer cruve measurement of a n-type semiconductor device:
+
+
+
+
+
+
+
+output curve measurement of a n-type semiconductor device:
+
 
 
 
