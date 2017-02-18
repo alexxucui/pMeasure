@@ -4,6 +4,7 @@ pMeasure is a python-written script that can control mutlipe national instrument
 ## PyVisa
 pMeasure required [PyVisa](https://pyvisa.readthedocs.io/en/stable/) to connect to instruments.
 You can istall it using pip:
+
 	$ pip install -U pyvisa
 
 ## Usage
