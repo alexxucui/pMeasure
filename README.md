@@ -13,12 +13,15 @@ _Transfer Curve_
 
     transfer(vsd=0.01, vb_low=0, vb_high=80, step=100, delay=0, pair='0.5um')
 
-
+vsd: Source-drain bias
+vb_low: Gate bias low value
+vb_high: Gate bias high value
+step: number of gate bias steps
 
 _Output Curve_
 
-	output(vsd=0.1, vb_low=0.0, vb_high=80.0, v_step=4, step=100, delay=100, pair = '0.5um')
-	
+	output(vsd=0.1, vb_low=0.0, vb_high=80.0, v_step=4, step=100, delay=0, pair = '0.5um')
+
 
 If you want to return both Keithey to 0, use:
 
