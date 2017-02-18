@@ -13,10 +13,10 @@ _Transfer Curve_
 
     transfer(vsd=0.01, vb_low=0, vb_high=80, step=100, delay=0, pair='0.5um')
 
-vsd: Source-drain bias
-vb_low: Gate bias low value
-vb_high: Gate bias high value
-step: number of gate bias steps
+vsd: Source-drain bias  
+vb_low: Gate bias low value  
+vb_high: Gate bias high value  
+step: number of gate bias steps  
 
 _Output Curve_
 
