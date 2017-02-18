@@ -10,8 +10,11 @@ You can istall it using pip:
 ## Usage
 
 * Transfer Curve
+	
+	transfer(vsd=0.01, vb_low=0, vb_high=80, step=100, delay=0, pair='0.5um')
 
-
+	
+  *d
 
 
 
