@@ -38,8 +38,11 @@ Example of of transfer cruve measurement of a n-type semiconductor device:
 
 ![Transfer Curve](https://github.com/alexxucui/pMeasure/blob/master/images/transfer_curve.png)
 
+Isd: Source-drain current  
+Rsd: Source-drain resistance  
+Ig: Gate leak current  
 
-output curve measurement of a n-type semiconductor device:
+Output curve measurement of a n-type semiconductor device:
 
 ![Output Curve](https://github.com/alexxucui/pMeasure/blob/master/images/output_curve.png)
 
