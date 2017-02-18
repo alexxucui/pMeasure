@@ -2,16 +2,11 @@
 pMeasure is a python-written script than can control mutlipe national instruments that can run measurement with real-time plotting.
 
 ## PyVisa
-ｐＭｅａｓｕｒｅ　ｒｅｑｕｉｒｅｄ　ｐｙＶｉｓａ　ｐａｃｋａｇｅ　ｔｏ　ｃｏｎｎｅｃｔ　ｔｏ　ｔｈｅ　Ｎａｔｉｏｎａｌ　ｉｎｓｔｒｕｍｅｎｔｓ．　
-Ｙｏｕ　ｃａｎ　ｉｎｓｔａｌｌ　ｉｔ　ｕｓｉｎｇ　ｐｉｐ：
+pMeasure required PyVisa to connect to instruments.
+You can istall it using pip:
 
-　　　　＄　ｐｉｐ　ｉｎｓｔａｌｌ　－Ｕ　ｐｙｖｉｓａ
+	$ pip install -U pyvisa
 
-##　Ｕｓａｇｅ
-
-
-
-## Plot
 
 
 
